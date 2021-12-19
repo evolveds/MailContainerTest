@@ -9,3 +9,15 @@ C:\repos\test\MailContainerTest\MailContainerTest\MailContainerTest.Tests\obj\De
 C:\repos\test\MailContainerTest\MailContainerTest\MailContainerTest.Tests\obj\Debug\net6.0\MailContainerTest.Tests.dll
 C:\repos\test\MailContainerTest\MailContainerTest\MailContainerTest.Tests\obj\Debug\net6.0\ref\MailContainerTest.Tests.dll
 C:\repos\test\MailContainerTest\MailContainerTest\MailContainerTest.Tests\obj\Debug\net6.0\MailContainerTest.Tests.pdb
+C:\Users\Jonathan\Source\Repos\MailContainerTest_ES\MailContainerTest.Tests\bin\Debug\net6.0\MailContainerTest.Tests.deps.json
+C:\Users\Jonathan\Source\Repos\MailContainerTest_ES\MailContainerTest.Tests\bin\Debug\net6.0\MailContainerTest.Tests.dll
+C:\Users\Jonathan\Source\Repos\MailContainerTest_ES\MailContainerTest.Tests\bin\Debug\net6.0\ref\MailContainerTest.Tests.dll
+C:\Users\Jonathan\Source\Repos\MailContainerTest_ES\MailContainerTest.Tests\bin\Debug\net6.0\MailContainerTest.Tests.pdb
+C:\Users\Jonathan\Source\Repos\MailContainerTest_ES\MailContainerTest.Tests\obj\Debug\net6.0\MailContainerTest.Tests.csproj.AssemblyReference.cache
+C:\Users\Jonathan\Source\Repos\MailContainerTest_ES\MailContainerTest.Tests\obj\Debug\net6.0\MailContainerTest.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Source\Repos\MailContainerTest_ES\MailContainerTest.Tests\obj\Debug\net6.0\MailContainerTest.Tests.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Source\Repos\MailContainerTest_ES\MailContainerTest.Tests\obj\Debug\net6.0\MailContainerTest.Tests.AssemblyInfo.cs
+C:\Users\Jonathan\Source\Repos\MailContainerTest_ES\MailContainerTest.Tests\obj\Debug\net6.0\MailContainerTest.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Source\Repos\MailContainerTest_ES\MailContainerTest.Tests\obj\Debug\net6.0\MailContainerTest.Tests.dll
+C:\Users\Jonathan\Source\Repos\MailContainerTest_ES\MailContainerTest.Tests\obj\Debug\net6.0\ref\MailContainerTest.Tests.dll
+C:\Users\Jonathan\Source\Repos\MailContainerTest_ES\MailContainerTest.Tests\obj\Debug\net6.0\MailContainerTest.Tests.pdb

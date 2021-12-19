@@ -30,3 +30,11 @@ You should not change the method signature of the MakeMailTransfer method.
 You should add suitable tests into the MailContainerTest.Test project.
 
 There are no additional constraints, use the packages and approach you feel appropriate. The idea is to spend around 1 hour completing the exercise.
+
+### Comments
+
+Given more time there would be more improvements i'd like to make
+- Introduce Dependency Injection
+- Create interfaces for all of the types
+
+As it stands there doesn't seem to be many more tests I can write for this code. I've tried to make it more readable and reduced the complexity of the code

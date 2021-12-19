@@ -6,6 +6,6 @@
         public string DestinationMailContainerNumber { get; set; }
         public int NumberOfMailItems { get; set; }
         public DateTime TransferDate { get; set; }   
-        public MailType MailType { get; set; }  
+        public AllowedMailType MailType { get; set; }  
     }
 }

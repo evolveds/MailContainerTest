@@ -1,31 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\test\\MailContainerTest\\MailContainerTest\\MailContainerTest.Tests\\MailContainerTest.Tests.csproj": {}
+    "C:\\Users\\Jonathan\\Source\\Repos\\MailContainerTest_ES\\MailContainerTest.Tests\\MailContainerTest.Tests.csproj": {}
   },
   "projects": {
-    "C:\\repos\\test\\MailContainerTest\\MailContainerTest\\MailContainerTest.Tests\\MailContainerTest.Tests.csproj": {
+    "C:\\Users\\Jonathan\\Source\\Repos\\MailContainerTest_ES\\MailContainerTest.Tests\\MailContainerTest.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\test\\MailContainerTest\\MailContainerTest\\MailContainerTest.Tests\\MailContainerTest.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Jonathan\\Source\\Repos\\MailContainerTest_ES\\MailContainerTest.Tests\\MailContainerTest.Tests.csproj",
         "projectName": "MailContainerTest.Tests",
-        "projectPath": "C:\\repos\\test\\MailContainerTest\\MailContainerTest\\MailContainerTest.Tests\\MailContainerTest.Tests.csproj",
-        "packagesPath": "C:\\Users\\andrew.witherley\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\test\\MailContainerTest\\MailContainerTest\\MailContainerTest.Tests\\obj\\",
+        "projectPath": "C:\\Users\\Jonathan\\Source\\Repos\\MailContainerTest_ES\\MailContainerTest.Tests\\MailContainerTest.Tests.csproj",
+        "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jonathan\\Source\\Repos\\MailContainerTest_ES\\MailContainerTest.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\andrew.witherley\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.telerik.com/nuget": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -42,6 +43,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
